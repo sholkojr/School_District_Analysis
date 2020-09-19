@@ -13,8 +13,15 @@ The following shows results comparison for the following summaries:
 - Impact to district by grade, school spending, size and type.
 
 ### District Summary
-The following shows the two results for the initial and revised summary:
+The following shows the two results for the initial and revised district summary:
 #### Initial Report
 ![initial_district_report](/Resources/district_summary_initial.png)
 #### Revised Report
 ![revised_district_report](/Resources/district_summary_revised.png)
+There is no appreciable impact on the removal of the Thomas High School Grade 9 results on the overall district summary
+
+### School Summary
+The following show the two results for the initial and revised school summary:
+#### Initial Report
+
+#### Revised Report
