@@ -29,5 +29,7 @@ The following shows the two results for the initial and revised school summary f
 ### School Ranking
 The following shows the impact to the school ranking due to the elimination of Thomas High School's grade 9 results:
 #### Initial Report
-
+![initial_school ranking](/Resources/school_ranking_initial.png)
 #### Revised Report
+![revised_school ranking](/Resources/school_ranking_revised.png)
+
