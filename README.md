@@ -18,6 +18,7 @@ The following shows the two results for the initial and revised district summary
 ![initial_district_report](/Resources/district_summary_initial.png)
 #### Revised Report
 ![revised_district_report](/Resources/district_summary_revised.png)
+
 There is no appreciable impact on the removal of the Thomas High School Grade 9 results on the overall district summary
 
 ### School Summary
