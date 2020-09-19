@@ -15,4 +15,6 @@ The following shows results comparison for the following summaries:
 ### District Summary
 The following shows the two results for the initial and revised summary:
 #### Initial Report
+![initial_district_report](/Resources/district_summary_initial.png)
 #### Revised Report
+![revised_district_report](/Resources/district_summary_revised.png)
