@@ -46,4 +46,4 @@ Grade 9 math and reading scores were removed from Thomas High School.
 #### Initial Report
 ![initial_size summary](/Resources/size_summary_initial.png)
 #### Revised Report
-![revised_size_summary](/Resources/size_summary_revised.png)
+![revised_size_summary](/Resources/size_summary_revised2.png)
