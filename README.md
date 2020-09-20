@@ -22,9 +22,9 @@ The following shows the two results for the initial and revised district summary
 ### School Summary
 The following shows the two results for the initial and revised school summary for Thomas High School:
 #### Initial Report
-![initial_school summary](/Resources/school_summary_initial.png)
+![initial_school summary](/Resources/school_summary_initial2.png)
 #### Revised Report
-![revised_school summary](/Resources/school_summary_revised3.png)
+![revised_school summary](/Resources/school_summary_revised4.png)
 
 ### School Ranking
 The following shows the impact to the school ranking due to the elimination of Thomas High School's grade 9 results:
