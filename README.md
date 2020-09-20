@@ -56,3 +56,8 @@ Highlighted field shows impact of Thomas High School.  Additional decimal places
 ![initial_type summary](/Resources/type_summary_initial.png)
 #### Revised Report
 ![revised_type_summary](/Resources/type_summary_revised.png)
+
+## Summary
+
+Generally, the overall impact to the summary results is fortunately minor.  The greatest impact is shown in the following areas:
+- 
