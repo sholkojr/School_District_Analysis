@@ -58,6 +58,6 @@ Highlighted field shows impact of Thomas High School.  Additional decimal places
 ![revised_type_summary](/Resources/type_summary_revised.png)
 
 ## Summary
-
-Generally, the overall impact to the summary results is fortunately minor.  The greatest impact is shown in the following areas:
+The greatest impact to the summaries are in the following areas
+- District overall passing - From 65.2 to 64.9
 - 
