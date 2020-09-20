@@ -20,14 +20,14 @@ The following shows the two results for the initial and revised district summary
 ![revised_district_report](/Resources/district_summary_revised2.png)
 
 ### School Summary
-The following shows the two results for the initial and revised school summary for Thomas High School:
+The following shows the two results for the initial and revised school summary for Thomas High School (additional decimal places shown to demonstrate impact):
 #### Initial Report
 ![initial_school summary](/Resources/school_summary_initial3.png)
 #### Revised Report
 ![revised_school summary](/Resources/school_summary_revised5.png)
 
 ### School Ranking
-The following shows the impact to the school ranking due to the elimination of Thomas High School's grade 9 results:
+The following shows the impact to the school ranking due to the elimination of Thomas High School's grade 9 results (rounding removed to demonstrate impact):
 #### Initial Report
 ![initial_school ranking](/Resources/school_ranking_initial.png)
 #### Revised Report
@@ -60,4 +60,8 @@ Highlighted field shows impact of Thomas High School.  Additional decimal places
 ## Summary
 The greatest impact to the summaries are in the following areas
 - District overall passing - From 65.2 to 64.9
-- 
+- Thomas High School's percent overall passing - From 90.95 to 90.63 
+- No data registered for Thomas High School Grade 9
+- Medium Schools percent overall passing - From 90.62 to 90.56
+
+Overall impact to the numbers is minimal, most numbers were within the original rounding error of the initial report.
