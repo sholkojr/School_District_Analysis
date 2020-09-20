@@ -37,18 +37,21 @@ The following shows the impact to the school ranking due to the elimination of T
 Grade 9 math and reading scores were removed from Thomas High School.
 
 ### Impact to Spending Range Summary
+Highlighted field shows impact of Thomas High School.  Additional decimal places are added to demonstrate impact.
 #### Initial Report
 ![initial_spending summary](/Resources/spending_summary_initial2.png)
 #### Revised Report
 ![revised_spending_summary](/Resources/spending_summary_revised2.png)
 
 ### Impact to School Size Range Summary
+Highlighted field shows impact of Thomas High School.  Additional decimal places are added to demonstrate impact.
 #### Initial Report
 ![initial_size summary](/Resources/size_summary_initial2.png)
 #### Revised Report
 ![revised_size_summary](/Resources/size_summary_revised3.png)
 
 ### Impact to School Type Summary
+Highlighted field shows impact of Thomas High School.  Additional decimal places are added to demonstrate impact.
 #### Initial Report
 ![initial_type summary](/Resources/type_summary_initial.png)
 #### Revised Report
